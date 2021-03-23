@@ -2,6 +2,7 @@
 Dashboard to monitor projectwerk
 
 Deploy by: 
-- copy all files to C:\VivesProjectwerk folder
+- Copy all files to C:\VivesProjectwerk folder
+- Download time log files van iedere groep en plaats deze in de csv_data folder
 - Install Power BI desktop application
 - Open Projectwerk_dashboard.pbix
