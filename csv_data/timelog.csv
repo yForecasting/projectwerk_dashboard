@@ -1,0 +1,108 @@
+Project,Date,Week,User,Activity,Ticket,Comment,Hours
+[2020] Secret Mission Analytics - team 1,18/03/2020,11,John Doe,Development,Assignment #37679: Het sorteren van de data sneller maken,"",0.50
+[2020] Secret Mission Analytics - team 1,18/03/2020,11,John Doe,Development,Assignment #37679: Het sorteren van de data sneller maken,"",2.00
+[2020] Secret Mission Analytics - team 1,18/03/2020,11,John Doe,Development,Assignment #37679: Het sorteren van de data sneller maken,"",1.50
+[2020] Secret Mission Analytics - team 1,18/03/2020,11,John Doe,Research,Assignment #37679: Het sorteren van de data sneller maken,"",1.00
+[2020] Secret Mission Analytics - team 1,18/03/2020,11,John Doe,Testing,Bug #37681: Data file sample_data.csv geeft problemen bij start.py,Added .astype(str) before the .str on line 20 in GenerateStatistics.py,0.17
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,Myriam Kennedy,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",0.50
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,John Doe,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,ervoor gezorgt dat als de mapjes er nog niet zijn ze worden aangemaakt,0.03
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,Myriam Kennedy,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",0.50
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,Myriam Kennedy,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",1.50
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,John Doe,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,testing if the Start file works,0.30
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,John Doe,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,"",0.50
+[2020] Secret Mission Analytics - team 1,17/03/2020,11,John Doe,Development,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,"",0.50
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Research,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,bekijken hoe je een dashboard kan maken met MI6,0.08
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Implementation,Assignment #37615: Data omvormen naar csv bestanden,"",4.00
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Research,Assignment #37614: volgen shootout western type,"",7.00
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Development,User story #36981: save data in pickle,"",0.50
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,John Doe,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",4.00
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Design,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 1,16/03/2020,11,Myriam Kennedy,Implementation,Assignment #35913: Als secret agent wil ik data in het MI6-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 1,15/03/2020,11,John Doe,Meeting,Assignment #37617: Praten met de klant over het project,"",1.00
+[2020] Secret Mission Analytics - team 1,11/03/2020,10,Mickey Mouse,Design,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?","",3.00
+[2020] Secret Mission Analytics - team 1,11/03/2020,10,Mickey Mouse,Design,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",Het heeft langer geduurd door de weinige kennis over verschillende algoritmes,3.00
+[2020] Secret Mission Analytics - team 1,09/03/2020,10,James Bond,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",bespreken libraries,3.50
+[2020] Secret Mission Analytics - team 1,09/03/2020,10,Mickey Mouse,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",4.50
+[2020] Secret Mission Analytics - team 1,09/03/2020,10,John Doe,Implementation,Assignment #37615: Data omvormen naar csv bestanden,"",2.85
+[2020] Secret Mission Analytics - team 1,07/03/2020,9,James Bond,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",Begrijpen van de gekozen libraries,2.00
+[2020] Secret Mission Analytics - team 1,06/03/2020,9,Mickey Mouse,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?","",4.00
+[2020] Secret Mission Analytics - team 1,06/03/2020,9,James Bond,Development,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",0.60
+[2020] Secret Mission Analytics - team 1,06/03/2020,9,James Bond,Development,Subtask #36778: Uit de AI-mogelijkheden de beste optie kiezen,TensorFLow lijkt de beste optie te zijn,0.20
+[2020] Secret Mission Analytics - team 1,06/03/2020,9,Mickey Mouse,Design,Subtask #36776: Formuleren wat wij moeten kunnen met onze AI,"",0.10
+[2020] Secret Mission Analytics - team 1,05/03/2020,9,James Bond,Development,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",0.40
+[2020] Secret Mission Analytics - team 1,04/03/2020,9,Mickey Mouse,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",1.00
+[2020] Secret Mission Analytics - team 1,04/03/2020,9,James Bond,Research,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",1.00
+[2020] Secret Mission Analytics - team 1,04/03/2020,9,John Doe,Testing,User story #36997: herformatteren van data,"",0.50
+[2020] Secret Mission Analytics - team 1,02/03/2020,9,James Bond,Research,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",4.00
+[2020] Secret Mission Analytics - team 1,02/03/2020,9,John Doe,Research,Assignment #37615: Data omvormen naar csv bestanden,"",4.08
+[2020] Secret Mission Analytics - team 1,02/03/2020,9,Myriam Kennedy,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",1.00
+[2020] Secret Mission Analytics - team 1,02/03/2020,9,Myriam Kennedy,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",1.00
+[2020] Secret Mission Analytics - team 1,02/03/2020,9,Mickey Mouse,Development,Subtask #36776: Formuleren wat wij moeten kunnen met onze AI,"Enkel nog de speed en aantal features, maar dit moet ik kijken in de data zonder redundantie",0.45
+[2020] Secret Mission Analytics - team 1,27/02/2020,8,James Bond,Implementation,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",3.00
+[2020] Secret Mission Analytics - team 1,27/02/2020,8,John Doe,Implementation,Assignment #37614: volgen shootout western type,"",2.60
+[2020] Secret Mission Analytics - team 1,24/02/2020,8,James Bond,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,Bespreking moeilijkheidsgraad tasks,1.00
+[2020] Secret Mission Analytics - team 1,24/02/2020,8,John Doe,Testing,Assignment #37614: volgen shootout western type,"",3.83
+[2020] Secret Mission Analytics - team 1,23/02/2020,8,James Bond,Research,Assignment #37614: volgen shootout western type,SCRUM sessie,7.00
+[2020] Secret Mission Analytics - team 1,23/02/2020,8,Mickey Mouse,Meeting,Assignment #37614: volgen shootout western type,"",7.00
+[2020] Secret Mission Analytics - team 1,23/02/2020,8,John Doe,Meeting,Assignment #37614: volgen shootout western type,"",7.00
+[2020] Secret Mission Analytics - team 1,22/02/2020,8,James Bond,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",2.50
+[2020] Secret Mission Analytics - team 1,22/02/2020,8,Mickey Mouse,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",2.50
+[2020] Secret Mission Analytics - team 1,22/02/2020,8,John Doe,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",2.00
+[2020] Secret Mission Analytics - team 1,22/02/2020,8,John Doe,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",2.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,Data inlezen ,4.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,John Doe,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",8.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,Myriam Kennedy,Development,Subtask #36266: Received class,"",0.05
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Subtask #36259: Completed class,"",0.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Subtask #36260: Answered class,"",0.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Subtask #36259: Completed class,"",0.10
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,Mickey Mouse,Development,Subtask #36263: Started class,"",0.10
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Subtask #36260: Answered class,"",0.15
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,Myriam Kennedy,Development,Subtask #36258: Created class,"",0.10
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,James Bond,Development,Subtask #36260: Answered class,"",0.00
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,Myriam Kennedy,Development,Subtask #36266: Received class,"",0.10
+[2020] Secret Mission Analytics - team 1,19/02/2020,7,Myriam Kennedy,Development,Subtask #36266: Received class,"",0.05
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,John Doe,Development,Assignment #35913: Als secret agent wil ik data in het MI6-program hebben,"",1.30
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,Mickey Mouse,Development,Subtask #36261: Quiz class,"",0.20
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36254: Registered_to class,"",0.00
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36254: Registered_to class,"",0.10
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36264: Enrolled_to class,"",0.10
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36254: Registered_to class,"",0.00
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,James Bond,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,John Doe,Development,Subtask #36359: Question class aanmaken,"",0.20
+[2020] Secret Mission Analytics - team 1,18/02/2020,7,Mickey Mouse,Development,Subtask #36261: Quiz class,"",0.20
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Design,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,bespreking schema,4.50
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Mickey Mouse,Meeting,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Meeting,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",2.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Subtask #36252: Logger Class,"",0.40
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Subtask #36251: Session Class,"",0.40
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Mickey Mouse,Development,Subtask #36256: Replied_to class,"",0.50
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36262: Logged_out_of class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36262: Logged_out_of class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36262: Logged_out_of class,"",0.05
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36268: Logged_into class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36268: Logged_into class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Subtask #36265: forum class,"",0.40
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Myriam Kennedy,Development,Subtask #36267: resource class,"",0.10
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36253: Action Class,"",0.10
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36268: Logged_into class,"",0.10
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36253: Action Class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Subtask #36255: Module Interface Class,"",0.20
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,James Bond,Development,Subtask #36338: Student class,"",0.30
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Mickey Mouse,Development,Subtask #36250: Admin Class,"",0.30
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Myriam Kennedy,Development,Subtask #36269: Viewed class,"",0.05
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Development,Subtask #36255: Module Interface Class,"",0.10
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,Myriam Kennedy,Development,Subtask #36248: Person Class,"",0.33
+[2020] Secret Mission Analytics - team 1,17/02/2020,7,John Doe,Analysis,Subtask #36257: Course Class,"",0.05
+[2020] Secret Mission Analytics - team 1,15/02/2020,7,John Doe,Research,Assignment #35913: Als secret agent wil ik data in het MI6-program hebben,"",1.20
+[2020] Secret Mission Analytics - team 1,13/02/2020,6,James Bond,Development,Assignment #37610: Creeren van Klasse schema,Klassenschema bespreken en aanmaken.,5.50
+[2020] Secret Mission Analytics - team 1,11/02/2020,6,Mickey Mouse,Meeting,Assignment #35913: Als secret agent wil ik data in het MI6-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 1,11/02/2020,6,John Doe,Meeting,Assignment #35913: Als secret agent wil ik data in het MI6-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 1,09/02/2020,6,James Bond,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",4.50
+[2020] Secret Mission Analytics - team 1,02/02/2020,5,James Bond,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,introductiemeeting,2.00
+[2020] Secret Mission Analytics - team 1,02/02/2020,5,Mickey Mouse,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het MI6-program,"",4.00

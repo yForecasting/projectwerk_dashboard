@@ -1,0 +1,108 @@
+Project,Date,Week,User,Activity,Ticket,Comment,Hours
+[2020] Secret Mission Analytics - team 2,18/03/2020,11,Johhny McClan,Development,Assignment #37679: Het sorteren van de data sneller maken,"",0.50
+[2020] Secret Mission Analytics - team 2,18/03/2020,11,Johhny McClan,Development,Assignment #37679: Het sorteren van de data sneller maken,"",2.00
+[2020] Secret Mission Analytics - team 2,18/03/2020,11,Johhny McClan,Development,Assignment #37679: Het sorteren van de data sneller maken,"",1.50
+[2020] Secret Mission Analytics - team 2,18/03/2020,11,Johhny McClan,Research,Assignment #37679: Het sorteren van de data sneller maken,"",1.00
+[2020] Secret Mission Analytics - team 2,18/03/2020,11,Johhny McClan,Testing,Bug #37681: Data file sample_data.csv geeft problemen bij start.py,Added .astype(str) before the .str on line 20 in GenerateStatistics.py,0.17
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Isabeau Griffendor,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",0.50
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Johhny McClan,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,ervoor gezorgt dat als de mapjes er nog niet zijn ze worden aangemaakt,0.03
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Isabeau Griffendor,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",0.50
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Isabeau Griffendor,Development,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,"",1.50
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Johhny McClan,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,testing if the Start file works,0.30
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Johhny McClan,Testing,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,"",0.50
+[2020] Secret Mission Analytics - team 2,17/03/2020,11,Johhny McClan,Development,User story #37669: Als klant wil ik op 1 knop moeten duwen om het programma te laten werken,"",0.50
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Research,User story #37654: Als secret agent wil ik een dashboard hebben waar ik data kan laten zien,bekijken hoe je een dashboard kan maken met KGB,0.08
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Implementation,Assignment #37615: Data omvormen naar csv bestanden,"",4.00
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Research,Assignment #37614: volgen shootout coldcase type,"",7.00
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Development,User story #36981: save data in pickle,"",0.50
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Johhny McClan,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",4.00
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Design,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 2,16/03/2020,11,Isabeau Griffendor,Implementation,Assignment #35913: Als secret agent wil ik data in het KGB-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 2,15/03/2020,11,Johhny McClan,Meeting,Assignment #37617: Praten met de klant over het project,"",1.00
+[2020] Secret Mission Analytics - team 2,11/03/2020,10,Donald Duck,Design,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?","",3.00
+[2020] Secret Mission Analytics - team 2,11/03/2020,10,Donald Duck,Design,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",Het heeft langer geduurd door de weinige kennis over verschillende algoritmes,3.00
+[2020] Secret Mission Analytics - team 2,09/03/2020,10,Henri Anvill,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",bespreken libraries,3.50
+[2020] Secret Mission Analytics - team 2,09/03/2020,10,Donald Duck,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",4.50
+[2020] Secret Mission Analytics - team 2,09/03/2020,10,Johhny McClan,Implementation,Assignment #37615: Data omvormen naar csv bestanden,"",2.85
+[2020] Secret Mission Analytics - team 2,07/03/2020,9,Henri Anvill,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?",Begrijpen van de gekozen libraries,2.00
+[2020] Secret Mission Analytics - team 2,06/03/2020,9,Donald Duck,Research,"Assignment #35945: [] Als Developers moeten we een AI gebruiken voor prediction, welke?","",4.00
+[2020] Secret Mission Analytics - team 2,06/03/2020,9,Henri Anvill,Development,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",0.60
+[2020] Secret Mission Analytics - team 2,06/03/2020,9,Henri Anvill,Development,Subtask #36778: Uit de AI-mogelijkheden de beste optie kiezen,TensorFLow lijkt de beste optie te zijn,0.20
+[2020] Secret Mission Analytics - team 2,06/03/2020,9,Donald Duck,Design,Subtask #36776: Formuleren wat wij moeten kunnen met onze AI,"",0.10
+[2020] Secret Mission Analytics - team 2,05/03/2020,9,Henri Anvill,Development,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",0.40
+[2020] Secret Mission Analytics - team 2,04/03/2020,9,Donald Duck,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",1.00
+[2020] Secret Mission Analytics - team 2,04/03/2020,9,Henri Anvill,Research,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",1.00
+[2020] Secret Mission Analytics - team 2,04/03/2020,9,Johhny McClan,Testing,User story #36997: herformatteren van data,"",0.50
+[2020] Secret Mission Analytics - team 2,02/03/2020,9,Henri Anvill,Research,Subtask #37175: Opzoekwerk doen over de soorten AI en machine shooting libraries,"",4.00
+[2020] Secret Mission Analytics - team 2,02/03/2020,9,Johhny McClan,Research,Assignment #37615: Data omvormen naar csv bestanden,"",4.08
+[2020] Secret Mission Analytics - team 2,02/03/2020,9,Isabeau Griffendor,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",1.00
+[2020] Secret Mission Analytics - team 2,02/03/2020,9,Isabeau Griffendor,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",1.00
+[2020] Secret Mission Analytics - team 2,02/03/2020,9,Donald Duck,Development,Subtask #36776: Formuleren wat wij moeten kunnen met onze AI,"Enkel nog de speed en aantal features, maar dit moet ik kijken in de data zonder redundantie",0.45
+[2020] Secret Mission Analytics - team 2,27/02/2020,8,Henri Anvill,Implementation,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",3.00
+[2020] Secret Mission Analytics - team 2,27/02/2020,8,Johhny McClan,Implementation,Assignment #37614: volgen shootout coldcase type,"",2.60
+[2020] Secret Mission Analytics - team 2,24/02/2020,8,Henri Anvill,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,Bespreking moeilijkheidsgraad tasks,1.00
+[2020] Secret Mission Analytics - team 2,24/02/2020,8,Johhny McClan,Testing,Assignment #37614: volgen shootout coldcase type,"",3.83
+[2020] Secret Mission Analytics - team 2,23/02/2020,8,Henri Anvill,Research,Assignment #37614: volgen shootout coldcase type,SCRUM sessie,7.00
+[2020] Secret Mission Analytics - team 2,23/02/2020,8,Donald Duck,Meeting,Assignment #37614: volgen shootout coldcase type,"",7.00
+[2020] Secret Mission Analytics - team 2,23/02/2020,8,Johhny McClan,Meeting,Assignment #37614: volgen shootout coldcase type,"",7.00
+[2020] Secret Mission Analytics - team 2,22/02/2020,8,Henri Anvill,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",2.50
+[2020] Secret Mission Analytics - team 2,22/02/2020,8,Donald Duck,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",2.50
+[2020] Secret Mission Analytics - team 2,22/02/2020,8,Johhny McClan,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",2.00
+[2020] Secret Mission Analytics - team 2,22/02/2020,8,Johhny McClan,Development,User story #35916: [10] Als secret agent wil ik data waar geen redundantie in zit,"",2.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,Data inlezen ,4.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Johhny McClan,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",8.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Isabeau Griffendor,Development,Subtask #36266: Received class,"",0.05
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Subtask #36259: Completed class,"",0.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Subtask #36260: Answered class,"",0.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Subtask #36259: Completed class,"",0.10
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Donald Duck,Development,Subtask #36263: Started class,"",0.10
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Subtask #36260: Answered class,"",0.15
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Isabeau Griffendor,Development,Subtask #36258: Created class,"",0.10
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Henri Anvill,Development,Subtask #36260: Answered class,"",0.00
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Isabeau Griffendor,Development,Subtask #36266: Received class,"",0.10
+[2020] Secret Mission Analytics - team 2,19/02/2020,7,Isabeau Griffendor,Development,Subtask #36266: Received class,"",0.05
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Johhny McClan,Development,Assignment #35913: Als secret agent wil ik data in het KGB-program hebben,"",1.30
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Donald Duck,Development,Subtask #36261: Quiz class,"",0.20
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36254: Registered_to class,"",0.00
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36254: Registered_to class,"",0.10
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36264: Enrolled_to class,"",0.10
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36254: Registered_to class,"",0.00
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Henri Anvill,Development,Subtask #36264: Enrolled_to class,"",0.00
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Johhny McClan,Development,Subtask #36359: Question class aanmaken,"",0.20
+[2020] Secret Mission Analytics - team 2,18/02/2020,7,Donald Duck,Development,Subtask #36261: Quiz class,"",0.20
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Design,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,bespreking schema,4.50
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Donald Duck,Meeting,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Meeting,Assignment #37610: Creeren van Klasse schema,"",4.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",2.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Subtask #36252: Logger Class,"",0.40
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Subtask #36251: Session Class,"",0.40
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Donald Duck,Development,Subtask #36256: Replied_to class,"",0.50
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36262: Logged_out_of class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36262: Logged_out_of class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36262: Logged_out_of class,"",0.05
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36268: Logged_into class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36268: Logged_into class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Subtask #36265: forum class,"",0.40
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Isabeau Griffendor,Development,Subtask #36267: resource class,"",0.10
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36253: Action Class,"",0.10
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36268: Logged_into class,"",0.10
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36253: Action Class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Subtask #36255: Module Interface Class,"",0.20
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36338: Student class,"",0.00
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Henri Anvill,Development,Subtask #36338: Student class,"",0.30
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Donald Duck,Development,Subtask #36250: Admin Class,"",0.30
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Isabeau Griffendor,Development,Subtask #36269: Viewed class,"",0.05
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Development,Subtask #36255: Module Interface Class,"",0.10
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Isabeau Griffendor,Development,Subtask #36248: Person Class,"",0.33
+[2020] Secret Mission Analytics - team 2,17/02/2020,7,Johhny McClan,Analysis,Subtask #36257: Course Class,"",0.05
+[2020] Secret Mission Analytics - team 2,15/02/2020,7,Johhny McClan,Research,Assignment #35913: Als secret agent wil ik data in het KGB-program hebben,"",1.20
+[2020] Secret Mission Analytics - team 2,13/02/2020,6,Henri Anvill,Development,Assignment #37610: Creeren van Klasse schema,Klassenschema bespreken en aanmaken.,5.50
+[2020] Secret Mission Analytics - team 2,11/02/2020,6,Donald Duck,Meeting,Assignment #35913: Als secret agent wil ik data in het KGB-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 2,11/02/2020,6,Johhny McClan,Meeting,Assignment #35913: Als secret agent wil ik data in het KGB-program hebben,"",5.00
+[2020] Secret Mission Analytics - team 2,09/02/2020,6,Henri Anvill,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",4.50
+[2020] Secret Mission Analytics - team 2,02/02/2020,5,Henri Anvill,Research,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,introductiemeeting,2.00
+[2020] Secret Mission Analytics - team 2,02/02/2020,5,Donald Duck,Meeting,Assignment #35926: [9]Als secret agent wil ik een manier om data op te slaan in het KGB-program,"",4.00
